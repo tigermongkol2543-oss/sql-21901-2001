@@ -1,0 +1,9 @@
+﻿ตาราง classroom
+แถวที่ 1: class_id=C01 ; class_name=ปวช.1/1 ; advisor=ครูมงคล
+แถวที่ 2: class_id=C02 ; class_name=ปวช.2/1 ; advisor=ครูสมศรี
+
+ตาราง student
+แถวที่ 1: student_id=6901000001 ; first_name=สมชาย ; class_id=C01
+แถวที่ 2: student_id=6901000002 ; first_name=สมหญิง ; class_id=C01
+แถวที่ 3: student_id=6901000003 ; first_name=สมชาย ; class_id=C02
+แถวที่ 4: student_id=6901000002 ; first_name=มานะ ; class_id=C02
